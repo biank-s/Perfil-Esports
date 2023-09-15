@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique para acessar]([https://biank-s.github.io/nlw/](https://biank-s.github.io/Perfil-Esports/))
+[Clique para acessar](https://biank-s.github.io/Perfil-Esports/)
 
 ## Treino de programação - Tecnologias
 
